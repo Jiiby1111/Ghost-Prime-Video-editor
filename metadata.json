@@ -1,0 +1,7 @@
+{
+  "name": "Nexus AI Video Editor",
+  "description": "A next-generation cloud video editor featuring Google Veo integration for AI video generation, intelligent asset management, and a professional non-linear editing timeline.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
